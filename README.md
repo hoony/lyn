@@ -1,9 +1,11 @@
 # lyn
 the Command Line Tool for Courting Developers
 
+[![NPM](https://nodei.co/npm/lyn.png?global=true)](https://nodei.co/npm/lyn/)
+
 Windows        | Mac/Linux
 -------------- | ------------
-[![Build status](https://ci.appveyor.com/api/projects/status/tijpagmaxb80rnul/branch/master?svg=true)](https://ci.appveyor.com/project/thechunsik/git)| [![Travis](http://img.shields.io/travis/thechunsik/lyn.svg?style=flat)](https://travis-ci.org/thechunsik/lyn)
+[![Build status](https://ci.appveyor.com/api/projects/status/tijpagmaxb80rnul/branch/alpha?svg=true)](https://ci.appveyor.com/project/thechunsik/git)| [![Travis](http://img.shields.io/travis/thechunsik/lyn.svg?style=flat)](https://travis-ci.org/thechunsik/lyn)
 
 ## Installation
 

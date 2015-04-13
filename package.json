@@ -1,8 +1,9 @@
 {
-  "name": "LYN",
+  "name": "lyn",
   "version": "0.0.1",
   "description": "the Command Line Tool for Courting Developers",
   "main": "lyn.js",
+  "keywords": "cli, for courting developers, private tool",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
