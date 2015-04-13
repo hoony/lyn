@@ -10,7 +10,7 @@
     "lyn": "./lyn.js"
   },
   "author": "Hoony <thechunsik@gmail.com>",
-  "license": "MIT",
+  "license": "GPL v3.0",
   "dependencies": {
     "cliclopts": "^1.1.0",
     "exit": "^0.1.2",
