@@ -36,6 +36,10 @@ Send an email to your friend
     --message, -m         the body content of the email
 ```
 
+#### lyn music
+Rearrange music files from a specific directory to a specific directory by artists
+
+
 ## Essential
   - [Mandrill API](https://mandrillapp.com)
 
