@@ -9,3 +9,8 @@ config.email = {
   'toEmail': 'YOUR_FRIEND_EMAIL',
   'toName': 'YOUR_FRIEND_NAME'
 };
+
+config.music = {
+  'fromPath': 'DIRECTORY_FILES_EXISTS',
+  'targetPath': 'DIRECTORY_FILES_WILL_BE_STORED'
+}

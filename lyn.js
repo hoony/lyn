@@ -8,8 +8,8 @@ var cliclopts = require('cliclopts');
 
 var bin = {
   "init": "./bin/init",
-  // "mp3": "./bin/mp3",
-  "email": "./bin/email"
+  "email": "./bin/email",
+  "music": "./bin/music"
 };
 
 var argv = minimist(process.argv.slice(2));

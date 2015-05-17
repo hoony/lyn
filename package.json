@@ -1,6 +1,6 @@
 {
   "name": "lyn",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "the Command Line Tool for Courting Developers",
   "main": "lyn.js",
   "keywords": "cli, for courting developers, private tool",
@@ -15,8 +15,11 @@
   "dependencies": {
     "cliclopts": "^1.1.0",
     "exit": "^0.1.2",
+    "glob": "^5.0.6",
     "leven": "^1.0.1",
     "mandrill-api": "^1.0.41",
-    "minimist": "^1.1.1"
+    "minimist": "^1.1.1",
+    "musicmetadata": "^1.0.1",
+    "shelljs": "^0.4.0"
   }
 }
